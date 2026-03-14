@@ -176,6 +176,8 @@ endfunction ()
 
 add_chapter (00_base_code)
 
+add_chapter (my_practice)
+
 add_chapter (01_instance_creation)
 
 add_chapter (02_validation_layers)
