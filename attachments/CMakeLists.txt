@@ -177,7 +177,7 @@ endfunction ()
 add_chapter (00_base_code)
 
 add_chapter (my_practice
-SHADER 19_shader_vertexbuffer)
+SHADER 22_shader_ubo)
 
 add_chapter (01_instance_creation)
 
